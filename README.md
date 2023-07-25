@@ -49,7 +49,7 @@ Conclusion:
 
 Overall, this project helps calculate the four financially related calculations and provides plot visualization as well as information output to a csv file.
 
-Github link:
+Blogger link:
 
 
 
