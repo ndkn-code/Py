@@ -33,6 +33,7 @@ calculate: This method performs the financial calculation based on the inputs pr
 
 The code also uses several built-in Python functions such as float(), int(), round(), and csv.writer(). Additionally, it uses the matplotlib.pyplot library for plotting the balance accumulation over time for compound interest calculations.
 
+https://summer23lis4930.blogspot.com/2023/07/intro-to-python-final-project.html
 
 
 
